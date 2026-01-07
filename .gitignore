@@ -1,0 +1,12 @@
+node_modules
+dist
+playwright-report
+test-results
+*.tgz
+package-lock.json
+rebuild.sh
+.DS_STORE
+
+
+# Rslib (For global type generation)
+.rslib/

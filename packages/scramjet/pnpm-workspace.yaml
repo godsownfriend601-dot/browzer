@@ -1,0 +1,13 @@
+packages:
+  - "packages/core"
+  - "packages/bootstrap"
+  - "packages/controller"
+  - "packages/scramjetserver"
+  - "packages/bare-mux-custom"
+  - "packages/epoxy-transport"
+  - "packages/libcurl-transport"
+  - "packages/demo"
+  - "packages/rewriter_demo"
+  - "packages/rpc"
+  - "packages/typedoc"
+  - "packages/create-proxy-app"

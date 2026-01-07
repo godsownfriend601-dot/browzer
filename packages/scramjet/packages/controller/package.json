@@ -1,0 +1,13 @@
+{
+	"name": "@mercuryworkshop/scramjet-controller",
+	"version": "0.0.2",
+	"type": "module",
+	"packageManager": "pnpm@10.12.1",
+	"main": "index.ts",
+	"dependencies": {
+		"@mercuryworkshop/scramjet": "workspace:*",
+		"@mercuryworkshop/rpc": "workspace:*",
+		"@mercuryworkshop/bare-mux-custom": "workspace:*",
+		"@mercuryworkshop/libcurl-transport": "workspace:*"
+	}
+}
